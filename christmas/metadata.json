@@ -1,0 +1,7 @@
+{
+  "name": "Christmas",
+  "description": "A real-time interactive 3D particle system controlled by hand gestures. Use your webcam to gather particles into a tree (fist), scatter them (open hand), or pinch to inspect memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
